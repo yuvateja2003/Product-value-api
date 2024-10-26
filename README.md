@@ -18,7 +18,7 @@ This is a Node.js/Express API that calculates the total value of products. It re
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/product-value-api.git
+   git clone https://github.com/yuvateja2003/Product-value-api
    cd product-value-api
    ```
 
